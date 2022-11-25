@@ -17,3 +17,7 @@ https://assets-1.entertainvideo.com/assets/media/6c03277445da997231899a065c730a3
 https://assets-1.entertainvideo.com/assets/media/f39cd0b18f57f812ae1f8063af703fe7/dash/c3456fc9097298f3bbef52d00c85ba48.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="ori DEVUDA (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",ori devuda (2022)
 https://assets-1.entertainvideo.com/assets/media/cebf04392fbd9375ecb39cb619fd140f/dash/a36bb03c17e043a9221fc028a1f47db2.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="prince (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",prince (2022)
+https://assets-1.entertainvideo.com/assets/media/44befd081c3d804af9cf925b70316ed4/dash/915e7cdc7ba2a139e3578e2f3b602ab6.mpd
+
+
