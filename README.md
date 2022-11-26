@@ -19,5 +19,9 @@ https://assets-1.entertainvideo.com/assets/media/f39cd0b18f57f812ae1f8063af703fe
 https://assets-1.entertainvideo.com/assets/media/cebf04392fbd9375ecb39cb619fd140f/dash/a36bb03c17e043a9221fc028a1f47db2.mpd
 #EXTINF:-1 tvg-id="VOD" tvg-name="prince (2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",prince (2022)
 https://assets-1.entertainvideo.com/assets/media/44befd081c3d804af9cf925b70316ed4/dash/915e7cdc7ba2a139e3578e2f3b602ab6.mpd
-
-
+#EXTINF:-1 tvg-id="VOD" tvg-name="love today(2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",love today (2022)
+https://assets-1.mypowerdisk.com/transcode_video/141825921b36fbe7d653cde1bc3e4228/dash/9fa43b87de5dc6b3aa3622f5d53bd39e.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="masooda(2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",masooda
+https://assets-1.mypowerdisk.com/transcode_video/77653d013e4f6c1f8c4ac5a4273ab10a/dash/e9e5051521236b69047cfc38491ce13f.mpd
+#EXTINF:-1 tvg-id="VOD" tvg-name="chup(2022)" tvg-logo="https://i2.cinestaan.com/image-bank/640-360/206001-207000/206738.jpg" group-title="VOD || Movies",chup
+https://assets-1.entertainvideo.com/assets/media/20a2e1b8dc1150cdc2a5a08e6dc0f362/dash/04ad04a666e0ec93eec6fbc9f4eb12ee.mpd
